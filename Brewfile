@@ -12,6 +12,7 @@ cask "dropbox"
 cask "malwarebytes"
 cask "parallels"
 cask "virtualbox"
+cask "macdown"
 mas "Bear", id: 1091189122
 mas "LastPass Password Manager", id: 926036361
 mas "Pocket", id: 568494494
