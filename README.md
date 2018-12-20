@@ -28,7 +28,7 @@ Some apps eg Virtaul Box will trigger a prompt to allow accessability settings. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/iwanjnz/mac-setup/blob/master/LISCENCE.md) file for details
 
 ## Acknowledgments
 
