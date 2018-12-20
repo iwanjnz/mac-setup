@@ -11,8 +11,9 @@ cask "the-unarchiver"
 cask "dropbox"
 cask "malwarebytes"
 cask "parallels"
-cask "virtualbox"
 cask "macdown"
+cask "pycharm-ce"
+cask "virtualbox"
 mas "Bear", id: 1091189122
 mas "LastPass Password Manager", id: 926036361
 mas "Pocket", id: 568494494
