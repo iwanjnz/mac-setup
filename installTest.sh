@@ -34,14 +34,8 @@ else
 fi
 
 #brew tap Homebrew/bundle
-
 #wd
 brew tap caskroom/cask
-
-cd Desktop/install
-
-cp sonos.rb /usr/local/homebrew/Library/Taps/homebrew/homebrew-cask/Casks
-
 brew bundle
 
 zsh
